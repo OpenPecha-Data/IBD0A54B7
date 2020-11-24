@@ -3,5 +3,16 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W17636
   title: ཚད་མའི་སྙིང་པོ་བསྡུས་གྲྭའི་རྣམ་གཞག
-  volume: ''
+  volume:
+    a441b4a1a0c34aedac69f24e0e6e7ff9:
+      image_group_id: I1KG10513
+      title: Volume 1 of tshad ma'i snying po bsdus grwa'i rnam gzhag
+      volume_number: 1
+      total_pages: 334
   author: ''
+ebook_metadata:
+  title: ཚད་མའི་སྙིང་པོ་བསྡུས་གྲྭའི་རྣམ་གཞག
+  author: ''
+  sku: P006932
+  cover: cover.jpg
+  layers: []
