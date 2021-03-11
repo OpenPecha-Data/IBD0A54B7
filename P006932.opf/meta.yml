@@ -5,11 +5,12 @@ source_metadata:
   title: ཚད་མའི་སྙིང་པོ་བསྡུས་གྲྭའི་རྣམ་གཞག
   author: ''
   volumes:
-    30fe849320f94a9db960010765c99b45:
+    a441b4a1a0c34aedac69f24e0e6e7ff9:
       image_group_id: I1KG10513
-      title: ''
+      title: Volume 1 of tshad ma'i snying po bsdus grwa'i rnam gzhag
       volume_number: 1
       total_pages: 334
+      base_file: v001.txt
 ebook_metadata:
   title: ཚད་མའི་སྙིང་པོ་བསྡུས་གྲྭའི་རྣམ་གཞག
   author: ''
