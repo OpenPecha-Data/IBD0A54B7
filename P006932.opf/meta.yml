@@ -1,5 +1,7 @@
 id: P006932
 initial_creation_type: ocr
+created_at: 28/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W17636
   title: ཚད་མའི་སྙིང་པོ་བསྡུས་གྲྭའི་རྣམ་གཞག
@@ -11,9 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 334
       base_file: v001.txt
-ebook_metadata:
-  title: ཚད་མའི་སྙིང་པོ་བསྡུས་གྲྭའི་རྣམ་གཞག
-  author: ''
-  sku: P006932
-  cover: cover.jpg
-  layers: []
